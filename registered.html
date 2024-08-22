@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>hacking.com</title>
+</head>
+<style type="text/css">
+ * {
+  color:blue;
+ }
+ h1 {
+  background:green;
+ }
+ button  {
+   margin:0;
+   padding:0;
+ }
+ fieldset {
+   background:red;
+ }
+ p {
+   color:blue;
+ }
+ body {
+  background:yellow;
+ }
+ button {
+  background:whitr;
+ }
+</style>
+<body>
+   <center>
+    <form class="action"method="">
+    <table>
+    <h1>REGESTRATION</h1> 
+    <tr>
+     <td>username</td>
+     <td>
+      <input type="text"placeholder="username">
+     </td>
+    </tr>
+    <tr>
+     <td>Email</td>
+     <td>
+      <input type="email"placeholder="Email">
+     </td>
+    </tr>
+    <tr>
+     <td>password</td>
+     <td>
+      <input type="pass"placeholder="password">
+     </td>
+    </tr>
+    <tr>
+     <td>confirm password</td>
+     <td>
+       <input type="pass"placeholder="confirm password">
+     </td>
+    </tr>
+    <tr>
+     <td>gender</td>
+     <td>
+      <input type="radio"name="gender">male
+       <input type="radio"name="gender">female
+        <input type="radio"name="gender">other
+     </td>
+    </tr>
+    <tr>
+    <td>
+     <select>
+      <option>+252</option>
+      <option>+251</option>
+      <option>+254</option>
+      <option>+256</option>
+      <option>+255</option>
+      <option>+257</option>
+     </select>
+     </td>
+     </tr>
+     <tr>
+      <td>
+       <input type="phone"mob_digits"
+       value="78*******">
+      </td>
+     </tr>
+     <tr>
+      <td>habbies</td>
+      <td>
+       <input type="checkbox"name="agre">agree
+      </td>
+     </tr><progress>
+     <td>
+     <button>login</button>
+     </td>
+    </table>
+      <button> 
+          <marquee>                                     <fieldset>
+    <p>kumawayo tech hacking ka raadi internet </p>
+     <p>kumawayo tech hacking ka raadi internet </p>
+      <p>kumawayo tech hacking ka raadi internet </p>
+       <p>kumawayo tech hacking ka raadi internet </p>
+        <p>kumawayo tech hacking ka raadi internet </p>
+         <p>kumawayo tech hacking ka raadi internet </p>
+         <p>kumawayo tech hacking ka raadi internet </p>
+                                                       
+         <p>kumawayo tech hacking ka raadi internet </p>
+         <p>kumawayo tech hacking ka raadi internet </p>
+         <p>kumawayo tech hacking ka raadi internet </p>
+         <p>kumawayo tech hacking ka raadi internet </p>
+         <p>kumawayo tech hacking ka raadi internet </p>
+         <p>kumawayo tech hacking ka raadi internet </p>
+         <p>kumawayo tech hacking ka raadi internet </p>
+         <input type="range"text="ibro">
+    </form>
+   </center>
+</body>
+</html>
